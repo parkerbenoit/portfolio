@@ -31,7 +31,7 @@
   background-color: rosybrown;
 }
 
-fontsize {
+.fontsize {
   font-size: large;
 }
 
@@ -39,3 +39,6 @@ fontsize {
   font-style: italic;
 }
 
+.arielfont {
+  font-family: Arial, Helvetica, sans-serif;
+}

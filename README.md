@@ -6,6 +6,8 @@
 
 ### By: Parker Benoit
 
+<a href="https://parkerbenoit.github.io/portfolio">Portfolio</a>
+
 ## Description
 
 This is a personal portfolio showcasing the work and mindset of Parker Benoit.
