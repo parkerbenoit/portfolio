@@ -12,6 +12,37 @@
   height: auto;
 }
 
-.sidebar {
+.float1 {
   float: center;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.font1 {
+  font: 500;
+}
+
+.box2 {
+  margin: 12px;
+  border: 5px;
+  padding: 4px;
+  background-color: rosybrown;
+}
+
+fontsize {
+  font-size: large;
+}
+
+.italic {
+  font-style: italic;
+}
+
+@media screen (min-width: 770px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding 20px;
+  }
 }
