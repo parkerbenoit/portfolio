@@ -22,7 +22,7 @@ The personal photo stretches with the expansion of the browser, needs to be a se
 
 HTML
 CSS
-Visual Stucio Code
+Visual Studio Code
 
 ## Contact
 
