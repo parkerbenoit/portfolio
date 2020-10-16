@@ -39,10 +39,3 @@ fontsize {
   font-style: italic;
 }
 
-@media screen (min-width: 770px) {
-  .column {
-    width: 300px;
-    float: left;
-    padding 20px;
-  }
-}
